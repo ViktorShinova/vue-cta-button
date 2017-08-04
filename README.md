@@ -32,10 +32,11 @@ Once installed, it can be used in a template as simply as:
 
 ```html
 <vue-cta-button
-	type="submit"
-	v-bind:loading="isLoading"
-	text="Enter Now"
-	loadingText="<i class='fa fa-circle-o-notch fa-spin fa-fw'></i> Submitting..."
-	class="btn btn-primary">
+  type="submit"
+  v-bind:loading="isLoading"
+  text="Enter Now"
+  loadingText="<i class='fa fa-circle-o-notch fa-spin fa-fw'></i> Submitting..."
+  class="btn btn-primary"
+>
 </vue-cta-button>
 ```
