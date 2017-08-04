@@ -5,7 +5,7 @@ A Vue.js component that displays a call to action form button, and manages the s
 ## Installation
 
 ```js
-npm i --save-dev vue-cta-button
+npm install --save-dev vue-cta-button
 ```
 
 ### Browser
